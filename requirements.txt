@@ -1,3 +1,7 @@
 streamlit
 pandas
 numpy
+finance-datareader
+beautifulsoup4
+matplotlib
+koreanize-matplotlib
